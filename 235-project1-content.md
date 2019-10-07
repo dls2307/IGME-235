@@ -47,9 +47,22 @@ from the originals like Galaga, to some of the more extreme ones like Touhou. My
 I've always wanted to try my hand at creating a space shooter, and see if I could manage to make one 
 as fun as the ones I've played. I look forward to seeing how everyone enjoys Vacuum Chamber!
 
+# Documentation
+## Process
+This website uses a single CSS sheet, where it aranges custom named html elements into grid format depending on what wrapper they're stored in. This is so elements that appear in multiple wrappers can be properly formatted without errors.
+## Resources Used
+* Background Image: [Blender Artist](https://blenderartists.org/t/space-background/660743)
+* HTML and CSS coded in Visual Studio Code: [Visual Studio Code](https://code.visualstudio.com/)
+* Mockup Screenshots created by Kyra Palanksky: [Linkedin Page](https://www.linkedin.com/in/kyra-palansky-52b319179/)
+* Arrow Keys Image: [Clip Art](https://www.hiclipart.com/free-transparent-background-png-clipart-iywru)
+* Spacebar Image: [PNG Clip Art](https://pngimage.net/space-bar-png-7/)
+## Credits
+* Site Creator: Diony Severino
+* Voluntary Artist: Kyra Palanksky
+
 # Game
 ## Game Window
 Game Window is placed here
 
-##Controls
+## Controls
 Controls are placed here, Arrow Keys for Movement, Spacebar to Shoot.
